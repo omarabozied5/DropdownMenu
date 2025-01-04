@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "subcategories": [
+      {
+        "id": 101,
+        "name": "Mobile Phones",
+        "subcategories": [
+          {"id": 1001, "name": "Android Phones"},
+          {"id": 1002, "name": "iPhones"}
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Laptops",
+        "subcategories": [
+          {"id": 1003, "name": "Gaming Laptops"},
+          {"id": 1004, "name": "Business Laptops"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fashion",
+    "subcategories": [
+      {
+        "id": 201,
+        "name": "Men's Clothing",
+        "subcategories": [
+          {"id": 2001, "name": "T-Shirts"},
+          {"id": 2002, "name": "Jeans"}
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Women's Clothing",
+        "subcategories": [
+          {"id": 2003, "name": "Dresses"},
+          {"id": 2004, "name": "Skirts"}
+        ]
+      }
+    ]
+  }
+]
